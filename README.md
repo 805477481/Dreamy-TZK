@@ -7,4 +7,4 @@
 ![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)
 ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
 ![ViewCount](https://views.whatilearened.today/views/github/sviptzk/sviptzk.svg?cache=remove)
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sviptzk&show_icons=true&hide_border=true&icon_color=586069&title_color=a0a9af">
+<img align="left" style="padding-right: 200px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sviptzk&show_icons=true&hide_border=true&icon_color=586069&title_color=a0a9af">
